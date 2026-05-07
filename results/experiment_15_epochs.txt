@@ -1,0 +1,7 @@
+Experiment: 15 epochs + augmentation
+
+IoU:       0.4311
+Precision: 0.5692
+Recall:    0.7081
+F1-score:  0.6078
+MAE:       0.2415
